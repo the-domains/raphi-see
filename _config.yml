@@ -1,0 +1,28 @@
+name: Raphi See
+favicon: null
+layout_spectrum: 0.22734182537533343
+typography_spectrum: 0.4443179399240762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8563309905584902
+  lightness: 0.7184786843135953
+  saturation: 0.9386831244919449
+  rhythmicContrast: 0.6072631373535842
+purpose: []
